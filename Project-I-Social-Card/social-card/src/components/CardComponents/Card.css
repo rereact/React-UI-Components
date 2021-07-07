@@ -1,1 +1,27 @@
 /* All styles for your Card Components live here */
+
+.banner {
+    width: 575px;
+    border-radius: 5px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.source {
+    color : lightgray;
+}
+
+.card {
+    width: 550px;
+    padding-left: 10px;
+    
+}
+
+.card-container {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 575px;
+    margin-left: 60px;
+}
